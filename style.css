@@ -25,6 +25,11 @@ html, body
 	background-color: #fff;
 }
 
+.formGroup
+{
+	margin-bottom: 10px;
+}
+
 header img
 {
 	height: 100%;
